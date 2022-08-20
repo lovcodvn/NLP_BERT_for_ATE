@@ -1,1 +1,1 @@
-# NLP: Aspect Term Extraction
+# NLP: Aspect Term Extraction (ATE)
