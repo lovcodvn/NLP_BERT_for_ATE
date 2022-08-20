@@ -30,3 +30,11 @@ This result surprised me since I had expected the F1-Score is around only 20%. S
 
 # References
 - SemEval 2014 Task 4 - Aspect Based Sentiment Analysis: https://www.aclweb.org/portal/content/semeval-2014-task-4-aspect-based-sentiment-analysis
+- Group 1's Project, Natural Language Processing, Class of Apr 2022, Singapore Management University
+- Qi, P., Dozat, T., Zhang, Y., & Manning, C. D. (2019). Universal dependency parsing from scratch. arXiv preprintarXiv:1901.10457.
+- Zhuang, L., Jing, F., & Zhu, X. Y.(2006, November). Movie review mining and summarization. In Proceedings of the 15thACM international conference on Information and knowledge management (pp. 43-50).
+- Qiu, G., Liu, B., Bu, J., & Chen, C.(2011). Opinion word expansion and target extraction through double propagation. Computational linguistics, 37(1), 9-27.
+- Smeaton, A. F., Kelledy, F., &O'Donnell, R. (1995). TREC-4 experiments at Dublin City University: Thresholding posting lists, query expansion with WordNet and POS tagging of Spanish. Harman [6], 373-389.
+- Popescu, A. M., & Etzioni, O.(2007). Extracting product features and opinions from reviews. In Natural language processing and text mining (pp. 9-28).Springer, London.
+- Shu, L., Liu, B., Xu, H., & Kim, A.(2016). Supervised Opinion Aspect Extraction by Exploiting Past Extraction Results. arXivpreprint arXiv:1612.07940.
+
