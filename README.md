@@ -1,1 +1,1 @@
-# NLP_BERT_for_ATE
+# NLP: Aspect Term Extraction
