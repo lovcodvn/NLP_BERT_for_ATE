@@ -25,9 +25,10 @@ The dataset I used in this task is SemEval 2014. For some reason, the original t
 - Approach 1: Recall: 46.15%,  Precision: 49.07%,  F1 Score: 47.57% 
 
 This result surprised me since I had expected the F1-Score is around only 20%. Since this approach is dictionary-based, the performance is entirely dependent on the comprehensiveness of our dictionary. As the dictionary is created based on the training data, we couldn't expect the dictionary can be representative of our data. Nevetheless, the dictionary-based result is even higher than that in my second approach. 
+
 - Approach 2: Recall: 36.25%,  Preision: 40.15%,  F1 Score: 38.1% 
 
-- Approach 3: Recall: 84%,  Precision: 85%, F1 Score: 84%. Sigificantly better result compared to those of the first two. This is achieved by using pretrained model BERT. 
+- Approach 3: Recall: 84%,  Precision: 85%, F1 Score: 84%. This is significantly better than those of the first two, thanks to pretrained model BERT. 
 
 
 # References
