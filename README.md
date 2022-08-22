@@ -1,9 +1,10 @@
 # NLP: Aspect Term Extraction (ATE)
 
 ## Project Description
-This project aims to solve the Subtask 1 of SemEval 2014 Task 4 - Aspect Based Sentiment Analysis
 
 Sentiment analysis is increasingly viewed as a vital task both from an academic and a commercial standpoint. The majority of existing evaluations in Sentiment Analysis (SA) are aimed at evaluating the overall polarity of a sentence, paragraph, or text span. In contrast, this task will provide evaluation for detecting aspects and the sentiment expressed towards each aspect.
+
+This project aims to solve the Subtask 1 of SemEval 2014 Task 4 - Aspect Based Sentiment Analysis
 
 Subtask 1: Aspect term extraction
 Given a set of sentences with pre-identified entities (e.g., restaurants), identify the aspect terms present in the sentences.
